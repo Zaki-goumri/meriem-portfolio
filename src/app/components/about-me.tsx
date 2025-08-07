@@ -14,13 +14,13 @@ const AboutMe = () => {
         <aside className="w-[60%] flex flex-col justify-between items-start ml-48">
           <h1 className="font-bold text-7xl tracking-tight max-w-3xl leading-20">
             Designing <span> Interfaces</span>
-            <br /> You'll Scroll <br /> on Purpose.
+            <br /> You&#39;ll Scroll <br /> on Purpose.
           </h1>
           <div className="mt-8 max-w-md flex ">
             <p className="text-gray-600 text-lg leading-relaxed">
-              Stick around — I'll show you why I'm the designer you've been
-              looking for.{" "}
-              <span className="text-purple-600">Spoiler alert:</span> You'll
+              Stick around — I&#39;ll show you why I&#39;m the designer
+              you&#39;ve been looking for.{" "}
+              <span className="text-purple-600">Spoiler alert:</span> You&#39;ll
               probably want to work with me by the time you hit the footer.
             </p>
           </div>
